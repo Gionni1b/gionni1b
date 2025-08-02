@@ -1,6 +1,6 @@
 # 👋 Hi, I'm gionni1b
 
-🎓 I'm a Computer Engineering student currently pursuing a Bachelor's degree.
+🎓 I'm an Engineering student currently pursuing a Bachelor's degree.
 
 💻 I work mostly with **Python** (FastAPI, automation, bots) and **Java**.
 
@@ -13,5 +13,5 @@
 📫 How to reach me:
 - GitHub: [@gionni1b](https://github.com/gionni1b)
 - Reddit: [@Gionni1b](https://www.reddit.com/user/Gionni1b/)
-
+- Fiverr: [@gionni1b](https://it.fiverr.com/s/99Ey9Ld)
 <!-- Optional: add more links if you want, like LinkedIn, email, etc. -->
